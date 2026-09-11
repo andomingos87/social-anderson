@@ -1,7 +1,7 @@
 # Anderson Domingos · Posicionamento e manual de conteúdo
 
-> **Versão:** 1.2 · 11/09/2026
-> **Origem:** `posicionamentoanderson.md` v1.0 (10/09/2026), refinado na rodada 1 de entrevista.
+> **Versão:** 1.3 · 11/09/2026
+> **Origem:** `posicionamentoanderson.md` v1.0 (10/09/2026), refinado nas rodadas 1 e 2 de entrevista.
 > **Função deste doc:** fonte única de verdade para tudo que Anderson publica. Serve para ele, para quem edita o conteúdo e para qualquer IA que ajude a produzir.
 > **Regra de ouro:** este documento precisa passar no próprio teste que ele descreve. Se tem jargão aqui, está errado aqui.
 
@@ -11,10 +11,11 @@
 
 **Antes de escrever qualquer peça:**
 
-1. Leia a ficha de fatos (2.5). Ela é a única fonte de fato sobre a vida dele.
-2. Leia a seção 7 (tom de voz), a 8 (pilares e formatos) e a 9 (guardrails). Não é opcional.
-3. Escolha um único pilar para a peça (seção 8.1). Um conteúdo, um pilar.
-4. Rode as cinco perguntas da seção 9.8 antes de entregar. Se qualquer uma falhar, reescreva.
+1. Leia a tese (1.2), o inimigo (1.5) e o teste da indicação (1.6). É o eixo de tudo.
+2. Leia a ficha de fatos (2.5). Ela é a única fonte de fato sobre a vida dele.
+3. Leia a seção 7 (tom de voz), a 8 (pilares e formatos) e a 9 (guardrails). Não é opcional.
+4. Escolha um único pilar para a peça (seção 8.1). Um conteúdo, um pilar.
+5. Rode as seis perguntas da seção 9.8 antes de entregar. Se qualquer uma falhar, reescreva.
 
 **Regras duras de produção:**
 
@@ -22,6 +23,7 @@
 - **Nunca use travessão.** Vírgula, ponto, dois pontos ou parênteses.
 - **Nunca use as palavras da seção 7.3** sem a tradução na mesma frase.
 - **Nunca prometa o que está na seção 5.4.**
+- **Nunca escreva um gancho que humilhe quem não sabe.** O inimigo é a vergonha, não a pessoa (1.5).
 - **Primeira pessoa.** O conteúdo é dele, não sobre ele.
 - Se o texto tiver cheiro de texto gerado por IA (ver 7.2, item 6), está reprovado, mesmo que esteja correto.
 
@@ -41,6 +43,7 @@
 - **O que eu quero:** ser reconhecido como especialista, professor e palestrante. Não como influencer, não como vendedor de curso. `[C]`
 - **Para quem eu falo:** gente não técnica que quer usar IA no próprio trabalho, e quem decide treinar times. `[C]`
 - **Como eu agrego valor:** transformo o complexo em simples sem mentir. Só ensino o que já rodei. `[C]`
+- **Contra o que eu falo:** a vergonha de não entender. O inimigo é esse sentimento, nunca uma pessoa. `[C]`
 - **Métrica de sucesso:** convite para falar, treinar e ensinar. Não seguidor. `[C]`
 
 ---
@@ -51,9 +54,17 @@
 
 > **Eu construo com inteligência artificial e traduzo para quem não é técnico.**
 
-### 1.2 A tese
+### 1.2 A tese `[C]`
 
-> **Se a explicação precisa de jargão, quem explica não entendeu.**
+> **Se você não entendeu, a culpa não é sua.**
+
+Esta é a tese pública, e ela substitui a versão anterior ("se a explicação precisa de jargão, quem explica não entendeu"). A troca não é de estilo, é de lado: a frase antiga acusava o especialista, a nova protege quem está ouvindo. Toda peça precisa sair desta frase, mesmo quando não a diz.
+
+**O que ela obriga na prática:**
+
+- Nunca começar por "você está fazendo errado". Começar por "isso nunca foi explicado direito para você".
+- Nunca tratar o desconhecimento como preguiça, atraso ou falta de esforço.
+- Quando a IA parece complicada, o erro é de quem ensina, de quem desenhou a ferramenta ou de quem escreveu a documentação. Nunca de quem tentou.
 
 ### 1.3 Por que essa posição é defensável `[C]`
 
@@ -73,6 +84,27 @@ Eu estou na interseção, e não porque troquei de carreira. **Eu fiz as duas co
 - Não sou guru de produtividade. Não prometo resultado rápido.
 - Não sou comentarista de novidade. Não falo de lançamento que não testei.
 - Não sou palestrante de liderança. Liderança é credencial, não tema. `[C]`
+
+### 1.5 O inimigo `[C]`
+
+> **A vergonha de não entender.**
+
+Não é o vendedor de curso, não é o guru, não é o programador que fala difícil. É o sentimento de estar atrasado que faz uma pessoa competente ficar calada na reunião.
+
+Essa escolha tem consequência editorial direta:
+
+- **Eu luto a favor de alguém, nunca contra alguém.** Contraste com outras pessoas é preguiça de argumento.
+- **Nenhum gancho pode humilhar.** "Você ainda não sabe isso?", "todo mundo já está usando e você não", "se você faz assim, está perdendo dinheiro". Tudo isso alimenta o inimigo em vez de combatê-lo.
+- **O pilar "Sem hype" não é sobre desmascarar gente.** É sobre devolver o chão para quem foi confundido. Quando eu digo que uma promessa é falsa, o alívio é do ouvinte, não a vitória minha.
+- **Se a pessoa termina a peça se sentindo burra, a peça falhou**, mesmo que cada frase esteja tecnicamente certa.
+
+### 1.6 O teste da indicação `[C]`
+
+Quando alguém me indicar para um evento ou para o chefe, a frase que eu quero ouvir é:
+
+> **"Ele explica IA sem jargão."**
+
+Esse é o filtro final de qualquer peça: ela torna essa frase mais provável de ser dita por quem assistiu? Se a peça é boa, mas reforça outra frase ("ele é muito técnico", "ele posta bastante", "ele critica bem os outros"), ela está fora do alvo.
 
 ---
 
@@ -237,9 +269,11 @@ Casado, dois filhos pequenos, fé cristã como base. Trabalho e vida seguem a me
 2. **Aplicar.** Mostrar o uso concreto, com resultado visível, que a pessoa consegue reproduzir.
 3. **Desmontar o hype.** Dizer onde a promessa quebra, o que a IA ainda não faz, e onde ela erra.
 
-### 6.2 A prova por trás de tudo
+### 6.2 A prova por trás de tudo `[C]`
 
 Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um tema, é a **prova** dentro dos outros três movimentos: "eu sei disso porque isso quebrou na minha mão em sistema real".
+
+**Decidido e fechado:** o bastidor nunca vira pilar próprio. Ele entra sempre a serviço de uma peça de Tradução, Aplicação ou Sem hype, em uma ou duas frases, e some. O motivo é o público: bastidor de construção como assunto atrai programador, e programador não é a persona. Uma peça que fala do que eu construí sem ensinar nada para quem não é técnico está reprovada, por mais interessante que seja a história.
 
 ### 6.3 O diferencial em uma frase
 
@@ -266,6 +300,7 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 | Confiante porque construiu | Confiante porque leu |
 | Honesto sobre o que a IA não faz | Entusiasmado com tudo |
 | Gancho forte e verdadeiro | Gancho forte e mentiroso |
+| Do lado de quem não entendeu | Superior a quem não entendeu |
 
 ### 7.2 Princípios de linguagem
 
@@ -276,6 +311,7 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 5. **Sem travessão.** Vírgula, ponto, dois pontos ou parênteses.
 6. **Sem marca de texto de IA.** Nada de "no mundo de hoje", "é importante ressaltar", "em suma", listas de três adjetivos.
 7. **Humor seco, pontual, nunca forçado.**
+8. **Gancho nunca humilha.** Pode assustar com a verdade, nunca com a incompetência de quem ouve. O medo pode vir do problema, jamais da pessoa. Ver 1.5.
 
 ### 7.3 Palavras proibidas e a tradução
 
@@ -315,9 +351,9 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 |---|---|---|
 | **Tradução** | Um conceito complexo explicado para qualquer pessoa | Descoberta e compartilhamento |
 | **Aplicação** | "Você pode fazer isso hoje", com resultado visível | Salvamento |
-| **Sem hype** | Onde a promessa quebra, o que a IA não faz | Credibilidade e separação de vendedor de curso |
+| **Sem hype** | Onde a promessa quebra, o que a IA não faz. Escrito para devolver o chão a quem foi confundido, nunca para desmascarar pessoa | Credibilidade e separação de vendedor de curso |
 
-Um conteúdo, um pilar. Sem misturar.
+Um conteúdo, um pilar. Sem misturar. O bastidor de construção não é um quarto pilar, é prova dentro destes três (ver 6.2).
 
 ### 8.2 Formatos e cadência `[C]`
 
@@ -353,12 +389,13 @@ Um conteúdo, um pilar. Sem misturar.
 5. **Só ensino o que rodei.** Nunca o que li.
 6. **Simples não é raso.** Se simplificar exige mentir, não publica.
 7. **Duas camadas do diário:** bruto privado (nunca publicado), saneado semanal (fonte de conteúdo). `[C]`
-8. **Cinco perguntas antes de publicar qualquer peça:**
+8. **Seis perguntas antes de publicar qualquer peça:**
    - Alguém de fora da área entende sem perguntar?
    - Eu assinaria isso na frente de um cliente?
    - Eu já rodei isso de verdade?
    - Tem nome, número ou fato identificável?
    - Um líder de área mandaria isso pro grupo do time?
+   - Quem assistiu termina se sentindo capaz, ou se sentindo burro? Se for a segunda, reprova, mesmo estando tudo certo. `[C]`
 
 ---
 
@@ -419,6 +456,16 @@ Só se muda de rota em 90 dias, com dado na mão. Se ao fim de 36 peças houver 
 | R1.8 | Cadência de 3 vídeos por semana mantida | 8.2 confirmado, nota de risco e gatilho de contingência em 10.3 |
 | R1.9 | Atraso de 30 dias substituído por teste de descaracterização | Guardrail 9.1 reescrito |
 
+### 12.1b Rodada 2: posicionamento e tese (fechada em 11/09/2026)
+
+| # | Decisão | Efeito no doc |
+|---|---|---|
+| R2.1 | A tese vira "Se você não entendeu, a culpa não é sua". A versão que acusava o especialista sai | 1.2 reescrita com as três obrigações práticas |
+| R2.2 | O inimigo é a vergonha de não entender, nunca uma pessoa | 1.5 criada. BLUF ganhou a linha "contra o que eu falo". Pilar "Sem hype" e tom 7.1 ajustados |
+| R2.3 | A frase de indicação alvo é "ele explica IA sem jargão" | 1.6 criada como filtro final de qualquer peça |
+| R2.4 | Bastidor continua como prova dentro dos três pilares, não vira quarto pilar | 6.2 fechado com o motivo (bastidor como assunto atrai programador, não a persona) |
+| R2.5 | Nenhum gancho pode humilhar quem não sabe | Princípio 8 em 7.2, regra dura no topo do doc, sexta pergunta em 9.8 |
+
 ### 12.2 Ainda aberto desta rodada
 
 - **Nome oficial da empresa.** Liberado para uso público, mas a grafia exata ainda não está no doc. Sem isso, nenhuma peça pode citar.
@@ -428,8 +475,7 @@ Só se muda de rota em 90 dias, com dado na mão. Se ao fim de 36 peças houver 
 
 ### 12.3 Rodadas previstas
 
-2. Posicionamento e tese (seções 1 e 6).
-3. Público e oferta (seções 3, 4 e 5).
+3. Público e oferta (seções 3, 4 e 5). A seção 4 inteira ainda é inferência.
 4. Voz, pilares e formatos (seções 7 e 8).
 5. Operação, guardrails e métricas (seções 9, 10 e 11).
 
@@ -438,7 +484,8 @@ Só se muda de rota em 90 dias, com dado na mão. Se ao fim de 36 peças houver 
 | Data | Item | Decisão |
 |---|---|---|
 | 11/09/2026 | Migração | v1.0 migrado para `.context/sobre-anderson/AGENTS.md` com camada de instrução para IA e fila de refino |
-| 11/09/2026 | Rodada 1 | Nove decisões aplicadas, ver 12.1. Documento passa a v1.2 |
+| 11/09/2026 | Rodada 1 | Nove decisões de fato e linha do tempo, ver 12.1. Documento passa a v1.2 |
+| 11/09/2026 | Rodada 2 | Cinco decisões de posicionamento, ver 12.1b. Troca da tese pública e definição do inimigo. Documento passa a v1.3 |
 
 ---
 
