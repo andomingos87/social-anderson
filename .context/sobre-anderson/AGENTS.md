@@ -1,9 +1,8 @@
 # Anderson Domingos · Posicionamento e manual de conteúdo
 
-> **Versão:** 1.1 (em revisão ativa) · 11/09/2026
-> **Origem:** migrado de `posicionamentoanderson.md` v1.0 (10/09/2026), sem perda de conteúdo.
+> **Versão:** 1.2 · 11/09/2026
+> **Origem:** `posicionamentoanderson.md` v1.0 (10/09/2026), refinado na rodada 1 de entrevista.
 > **Função deste doc:** fonte única de verdade para tudo que Anderson publica. Serve para ele, para quem edita o conteúdo e para qualquer IA que ajude a produzir.
-> **Estado:** em rodada de entrevista de refino. Seção 12 lista o que está sob verificação. Enquanto um item estiver lá, trate o texto da seção correspondente como provisório.
 > **Regra de ouro:** este documento precisa passar no próprio teste que ele descreve. Se tem jargão aqui, está errado aqui.
 
 ---
@@ -12,13 +11,14 @@
 
 **Antes de escrever qualquer peça:**
 
-1. Leia a seção 7 (tom de voz), a 8 (pilares e formatos) e a 9 (guardrails). Não é opcional.
-2. Identifique um único pilar para a peça (seção 8.1). Um conteúdo, um pilar.
-3. Rode as cinco perguntas da seção 9.8 antes de entregar. Se qualquer uma falhar, reescreva.
+1. Leia a ficha de fatos (2.5). Ela é a única fonte de fato sobre a vida dele.
+2. Leia a seção 7 (tom de voz), a 8 (pilares e formatos) e a 9 (guardrails). Não é opcional.
+3. Escolha um único pilar para a peça (seção 8.1). Um conteúdo, um pilar.
+4. Rode as cinco perguntas da seção 9.8 antes de entregar. Se qualquer uma falhar, reescreva.
 
 **Regras duras de produção:**
 
-- **Nunca invente fato, exemplo, número, caso de cliente ou história.** Se a peça precisa de um fato que não está neste documento, pare e pergunte. Conteúdo inventado quebra a tese inteira, que é "só ensino o que já rodei".
+- **Nunca invente fato, exemplo, número, caso de cliente ou história.** Se a peça precisa de um fato que não está na seção 2.5, pare e pergunte. Conteúdo inventado quebra a tese inteira, que é "só ensino o que já rodei".
 - **Nunca use travessão.** Vírgula, ponto, dois pontos ou parênteses.
 - **Nunca use as palavras da seção 7.3** sem a tradução na mesma frase.
 - **Nunca prometa o que está na seção 5.4.**
@@ -27,20 +27,17 @@
 
 **Regra de status:** nada sobe de `[I]` para `[C]` sem confirmação explícita do Anderson. IA não promove marcador sozinha.
 
-**Convenção de marcadores:**
-
 | Marcador | Significado |
 |---|---|
 | `[C]` | Confirmado por Anderson. Pode ser usado como verdade em conteúdo |
 | `[I]` | Inferência a validar. Pode guiar rascunho, não pode virar afirmação pública |
 | `[?]` | Lacuna aberta. Não use |
-| `[V]` | Em verificação nesta rodada de entrevista. Ver seção 12. Não use em peça pública até resolver |
 
 ---
 
 ## 0. BLUF
 
-- **Quem eu sou:** programador que constrói com inteligência artificial em sistemas que empresas usam todo dia, e que traduz isso para quem não é técnico. `[C]` `[V]`
+- **Quem eu sou:** programador que constrói com inteligência artificial em sistemas que empresas usam todo dia, e que traduz isso para quem não é técnico. `[C]`
 - **O que eu quero:** ser reconhecido como especialista, professor e palestrante. Não como influencer, não como vendedor de curso. `[C]`
 - **Para quem eu falo:** gente não técnica que quer usar IA no próprio trabalho, e quem decide treinar times. `[C]`
 - **Como eu agrego valor:** transformo o complexo em simples sem mentir. Só ensino o que já rodei. `[C]`
@@ -67,7 +64,7 @@ O mercado tem dois grupos, e os dois falham:
 | Quem traduz IA para leigo | Fala de ferramenta, promete facilidade | Nunca construiu nada. Sem cicatriz, sem sistema rodando, sem cliente do outro lado |
 | Quem constrói de verdade | Domina a técnica | Não consegue explicar. Fala em jargão, para outro programador |
 
-Eu estou na interseção. Construo sistema que precisa funcionar todo dia e venho de anos vendendo para gente não técnica. **Aprendi a traduzir vendendo, não estudando comunicação.** Isso é o que ninguém copia.
+Eu estou na interseção, e não porque troquei de carreira. **Eu fiz as duas coisas ao mesmo tempo, desde o começo.** Vendia online e programava no mesmo período, para a minha própria operação. Quem vende aprende a explicar porque perde dinheiro quando não explica. Nunca precisei virar tradutor depois: eu já era as duas pessoas ao mesmo tempo. Isso é o que ninguém copia, porque não se aprende em curso, se aprende tendo os dois problemas na mesma semana.
 
 ### 1.4 O que eu não sou (tão importante quanto o que sou)
 
@@ -81,23 +78,25 @@ Eu estou na interseção. Construo sistema que precisa funcionar todo dia e venh
 
 ## 2. Sobre mim
 
-### 2.1 Bio curta (perfil, até 150 caracteres) `[C]` `[V]`
+### 2.1 Bio curta (perfil, até 150 caracteres) `[C]`
 
 > Traduzo inteligência artificial pra quem não é técnico.
 > Eu construo, então sei o que funciona e o que é promessa.
 > Palestra e treinamento ↓
 
+138 caracteres com as quebras de linha. Cabe no limite do Instagram.
+
 **Campo de nome (pesquisável):** Anderson Domingos | IA na prática
 
-### 2.2 Bio média (apresentação de evento, one-pager) `[V]`
+### 2.2 Bio média (apresentação de evento, one-pager) `[C]`
 
-Anderson Domingos é programador e cofundador de uma empresa de tecnologia com foco em inteligência artificial. Constrói sistemas com IA que empresas usam no dia a dia, com cliente, prazo e dinheiro em jogo. Antes de programar, passou anos vendendo online nos grandes marketplaces do país, e foi ali que aprendeu a explicar tecnologia para quem não é da área. Hoje dedica parte do tempo a traduzir IA para times não técnicos: o que funciona de verdade, o que é promessa, e como usar no trabalho a partir de amanhã.
+Anderson Domingos é programador e cofundador de uma empresa de tecnologia com foco em inteligência artificial, onde responde pela parte técnica. Constrói sistemas com IA que empresas usam no dia a dia, com cliente, prazo e dinheiro em jogo. Começou em duas frentes ao mesmo tempo: vendia online nos grandes marketplaces do país e programava para a própria operação. Foi vendendo, e não estudando comunicação, que aprendeu a explicar tecnologia para quem não é da área. Hoje dedica parte do tempo a traduzir IA para times não técnicos: o que funciona de verdade, o que é promessa, e como usar no trabalho a partir de amanhã.
 
-### 2.3 História em quatro atos (matéria-prima para stories, palestra e entrevista) `[V]`
+### 2.3 História em quatro atos (matéria-prima para stories, palestra e entrevista) `[C]`
 
-1. **Vendas antes de código.** `[C]` Anos vendendo produto online, incluindo importados, nos grandes marketplaces. Aprendi margem, canal, cliente na ponta. Aprendi a explicar para quem não quer entender tecnologia, quer resolver problema.
-2. **Autodidata.** `[C]` Formação técnica em 2001. Fiz site para vender, migrei para desenvolvimento. Aprender fazendo é meu marco formador.
-3. **Construção real.** `[C]` Cofundador de empresa de tecnologia. Construí, sozinho, três ferramentas com IA em um sprint de 22 dias para uma operação em crise. Não é demonstração, é sistema que roda com gente dependendo dele.
+1. **Nunca fui só uma coisa.** `[C]` Formação técnica em 2001. Fiz site para vender o meu próprio produto e vendi online nos grandes marketplaces, importado incluído, enquanto programava. Vender e programar nunca foram fases separadas na minha vida, foram a mesma fase. Aprendi margem, canal e cliente na ponta ao mesmo tempo em que aprendi a construir. E aprendi a explicar para quem não quer entender tecnologia, quer resolver problema.
+2. **Aprendi fazendo.** `[C]` Autodidata por necessidade, não por estilo. O que eu sei veio de coisa que precisava funcionar, não de aula. É por isso que eu só ensino o que já rodei: é o único jeito que eu mesmo aprendi.
+3. **Construção real.** `[C]` Cofundador e sócio técnico de uma empresa de tecnologia. Construí, sozinho, três ferramentas com IA em um sprint de 22 dias, para uma operação de casa que estava em crise: uma para o atendimento, uma para o comercial, uma para a operação interna. Não é demonstração, é sistema que roda com gente dependendo dele.
 4. **A virada.** `[C]` Percebi que o gargalo não é a tecnologia, é a tradução. Quem entende não explica, quem explica não entende. Decidi ocupar esse espaço.
 
 ### 2.4 Camada humana (uso pontual, não no destaque de apresentação) `[C]`
@@ -105,6 +104,25 @@ Anderson Domingos é programador e cofundador de uma empresa de tecnologia com f
 Casado, dois filhos pequenos, fé cristã como base. Trabalho e vida seguem a mesma filosofia. Crise me energiza em vez de drenar. Ego baixo com erro: assumo e vou para a solução.
 
 **Regra de uso:** humaniza e aproxima, mas dilui a leitura de especialista se vier cedo demais. Entra como conteúdo separado, nunca na peça de apresentação.
+
+### 2.5 Ficha de fatos (a IA só pode afirmar o que está aqui) `[C]`
+
+| Fato | Verdade | Uso público |
+|---|---|---|
+| Profissão | Programador. Escreve código quase todo dia, dividindo com gestão e time | Sim. Use "programo quase todo dia", nunca "todo dia" |
+| Empresa | Cofundador e sócio técnico de uma empresa de tecnologia com foco em IA | Sim, e o nome dela pode ser citado. Grafia oficial pendente, ver 12.2 |
+| Vendas | Vendeu online nos grandes marketplaces, importado incluído, por um período entre 3 e 6 anos, em paralelo com o código | Sim, como "anos vendendo". Não invente número exato |
+| O sprint | Três ferramentas com IA, sozinho, em 22 dias, para uma operação de casa em crise | Sim. Operação própria, não cliente externo |
+| As três ferramentas | Uma para atendimento e suporte, uma para comercial e proposta, uma para operação interna | Sim, sempre em linguagem de leigo. Nunca cite a tecnologia por trás |
+| Formação | Curso técnico em 2001. Autodidata daí em diante | Sim |
+| Família | Casado, dois filhos pequenos, fé cristã | Sim, uso pontual, regra da 2.4 |
+
+**Nunca diga, porque é falso ou não confirmado:**
+
+- "Vendi antes de programar" ou "larguei as vendas para virar programador". Foi em paralelo.
+- "Trabalho com IA há X anos". O número não está confirmado.
+- Qualquer resultado numérico do sprint (quanto economizou, quanto cresceu). Ainda não confirmado, ver 12.2.
+- Nome de cliente, de pessoa, faturamento ou investidor. Guardrail 9.2.
 
 ---
 
@@ -184,17 +202,18 @@ Casado, dois filhos pequenos, fé cristã como base. Trabalho e vida seguem a me
 
 ## 5. Oferta
 
-### 5.1 O que eu ofereço `[C]` `[V]`
+### 5.1 O que eu ofereço `[C]`
 
-1. **Palestra.** Para evento, empresa, comunidade. Objetivo: fortalecer posicionamento como especialista. Aceito por autoridade, não por receita, nesta fase.
-2. **Treinamento para times não técnicos.** Comercial, operação, atendimento, financeiro, marketing. Com o trabalho real do time como material.
+1. **Palestra.** Para evento, empresa, comunidade. Objetivo: fortalecer posicionamento como especialista.
+   **Regra de cobrança:** as cinco primeiras palestras são de graça, aceitas por autoridade e não por receita. A partir da sexta, passa a ser paga. O contador vive na seção 10.1, para a fase ter fim e não virar "para sempre".
+2. **Treinamento para times não técnicos.** Comercial, operação, atendimento, financeiro, marketing. Com o trabalho real do time como material. Pago desde o primeiro.
 3. **Conteúdo gratuito.** Vídeo curto, aula mensal, imagem com IA e prompt entregue por direct. É a vitrine e a prova.
 
 ### 5.2 O que eu não ofereço agora `[C]`
 
 - Curso online.
 - Mentoria paga individual.
-- Consultoria de implementação (posso indicar, não executar, para não confundir a posição de professor com a de fornecedor). `[V]`
+- Consultoria de implementação (posso indicar, não executar, para não confundir a posição de professor com a de fornecedor).
 - Conteúdo patrocinado ou publicidade de ferramenta. `[I]` (a confirmar como regra)
 
 ### 5.3 Promessa (o que a pessoa leva) `[C]`
@@ -224,7 +243,7 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 
 ### 6.3 O diferencial em uma frase
 
-> Sei traduzir porque passei anos vendendo para gente não técnica. Sei o que funciona porque construo sistema que roda todo dia. Quase ninguém tem as duas coisas.
+> Sei traduzir porque vendi para gente não técnica ao mesmo tempo em que programava. Sei o que funciona porque construo sistema que roda todo dia. Quase ninguém tem as duas coisas, e quem tem quase nunca teve as duas ao mesmo tempo.
 
 ### 6.4 Regras de valor
 
@@ -283,7 +302,7 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 | Aula mensal | Calmo, didático, com exemplo real e com o erro incluído |
 | Legenda | Palavra-chave na primeira linha, texto que ensina sozinho, pergunta no fim quando fizer sentido |
 | Direct | Pessoal, generoso, termina com pergunta. É conversa, não entrega |
-| Palestra | Começa com história (vendas antes de código), tese no meio, aplicação no fim |
+| Palestra | Começa com história (as duas frentes ao mesmo tempo), tese no meio, aplicação no fim |
 | Comentário | Curto, responde de verdade, agradece sem bajular |
 
 ---
@@ -300,13 +319,15 @@ Eu não falo do que li. Falo do que rodei. O bastidor de construção não é um
 
 Um conteúdo, um pilar. Sem misturar.
 
-### 8.2 Formatos `[C]` `[V]`
+### 8.2 Formatos e cadência `[C]`
 
-- **Vídeo vertical, 60 a 90 segundos, 3 por semana.** Instagram e YouTube ao mesmo tempo. Função: descoberta.
+- **Vídeo vertical, 60 a 90 segundos, 3 por semana.** Instagram e YouTube ao mesmo tempo. Função: descoberta. Cadência confirmada mesmo com a rotina de cofundador que programa quase todo dia.
 - **Aula de 10 a 15 minutos, 1 por mês.** Função: conversão para convite. É o que o organizador assiste antes de chamar.
 - **Imagem com IA + prompt por direct, 1 por semana no máximo.** Função: comentário, conversa, salvamento. Pede que o prompt entregue seja bom o suficiente para a pessoa se sentir em dívida.
 - **Destaque "Comece aqui".** Seis stories que apresentam em menos de dois minutos. Porta de entrada permanente.
 - **Diário em áudio, diário.** Camada bruta privada. Fonte de contexto e de conteúdo saneado. `[C]`
+
+**Nota de risco:** três vídeos por semana é a parte mais frágil do plano, não por ambição, mas porque depende de tempo de gravação e edição em uma semana já cheia. O plano de contingência está em 10.3: se a disciplina cair abaixo de 2 por semana por três semanas seguidas, o problema é capacidade, não vontade, e a decisão vira contratar edição ou baixar a meta. Não vira culpa.
 
 ### 8.3 O que não faço em formato
 
@@ -320,8 +341,13 @@ Um conteúdo, um pilar. Sem misturar.
 
 ## 9. Guardrails (não negociáveis)
 
-1. **Atraso mínimo de 30 dias** entre fato e publicação. Nada de "hoje descobri que". `[C]`
-2. **Sem nome de empresa cliente, sem nome de pessoa, sem número de faturamento, sem investidor.** `[C]`
+1. **Teste de descaracterização.** `[C]` Não existe prazo fixo entre o fato acontecer e virar conteúdo. O antigo atraso de 30 dias foi substituído por um critério mais duro e mais útil. Antes de publicar qualquer bastidor, responda:
+   - Dá para saber **quem** está na história? Se sim, reescreve.
+   - Dá para saber **qual empresa** ou qual setor específico? Se sim, reescreve.
+   - Dá para saber **quando** aconteceu? Se sim, tira a data.
+   - Tem **detalhe que só uma empresa no mundo tem**? Se sim, tira.
+   Se o fato ainda está acontecendo e tem gente envolvida que se reconheceria hoje, espera terminar. Velocidade nunca justifica expor alguém.
+2. **Sem nome de empresa cliente, sem nome de pessoa, sem número de faturamento, sem investidor.** `[C]` A exceção é a empresa dele mesmo, que pode ser citada em qualquer contexto.
 3. **O vilão nunca é pessoa nem empresa.** É a decisão, o processo, a arquitetura.
 4. **Teste do leitor errado:** o dono da empresa, o diretor comercial e um investidor vão assistir. Se algum deles se reconheceria de forma desconfortável, volta para a mesa.
 5. **Só ensino o que rodei.** Nunca o que li.
@@ -347,6 +373,7 @@ Um conteúdo, um pilar. Sem misturar.
 | Valor | Salvamentos e compartilhamentos por peça | Crescente, comparado peça a peça |
 | Conversa | Mensagens de gente sênior ou de quem decide | Registrar todas |
 | Objetivo | Convites para falar, treinar, participar | 2 a 3, mesmo pequenos |
+| Contador | Palestras feitas de graça | 0 de 5. Na sexta, começa a cobrar |
 | Arquivo | Dias de diário gravados | Todos os dias úteis |
 
 ### 10.2 O que eu não olho
@@ -358,6 +385,8 @@ Um conteúdo, um pilar. Sem misturar.
 ### 10.3 Critério de virada
 
 Só se muda de rota em 90 dias, com dado na mão. Se ao fim de 36 peças houver zero conversa qualificada e zero convite, o problema é tema ou público, não estilo. Aí se ajusta. Não antes.
+
+**Exceção, e só esta:** se a publicação cair abaixo de 2 vídeos por semana durante três semanas seguidas, não se espera os 90 dias. Isso não é sinal de tema errado, é sinal de capacidade. A decisão nesse caso é contratar edição ou reduzir a meta para 2 por semana, e seguir.
 
 ---
 
@@ -376,31 +405,41 @@ Só se muda de rota em 90 dias, com dado na mão. Se ao fim de 36 peças houver 
 
 > Esta seção existe para o doc não fingir certeza que ainda não tem. Item resolvido sai daqui e o texto da seção correspondente é reescrito.
 
-### 12.1 Rodada 1: fatos e linha do tempo (aberta em 11/09/2026)
+### 12.1 Rodada 1: fatos e linha do tempo (fechada em 11/09/2026)
 
-| # | Onde | O que está sob verificação | Por quê |
-|---|---|---|---|
-| R1.1 | 2.3 atos 1 e 2 | Ordem real dos fatos | O doc diz "vendas antes de código" e logo depois "formação técnica em 2001, fiz site para vender". As duas coisas não podem ser verdade na mesma ordem |
-| R1.2 | 2.2, 2.3 ato 3 | Nome da empresa própria pode ser dito em público | Guardrail 9.2 proíbe nome de cliente, não fala de empresa própria. Falta decidir |
-| R1.3 | 2.3 ato 3 | "Três ferramentas em 22 dias, sozinho, operação em crise" | É o ativo mais forte do doc e o mais checável. Precisa estar exato |
-| R1.4 | 0, 2.2 | O substantivo que ele usa para si (programador, engenheiro, fundador) | Define a leitura de autoridade em toda peça |
-| R1.5 | 2.3 ato 1 | Período, canais e escala da fase de vendas | A tese de 1.3 depende disso. Hoje está genérico |
-| R1.6 | 2.1 | Bio curta passa de 150 caracteres | O texto atual não cabe no limite que ele mesmo definiu |
-| R1.7 | 5.1 | Palestra sem cobrar, até quando | "Nesta fase" não tem critério de saída |
+| # | Decisão | Efeito no doc |
+|---|---|---|
+| R1.1 | Vender e programar sempre foram em paralelo, nunca fases separadas | Atos 1 e 2 reescritos, 1.3, 2.2, 6.3 e 7.4 ajustados |
+| R1.2 | A empresa própria pode ser citada em qualquer contexto | Guardrail 9.2 ganhou a exceção |
+| R1.3 | O sprint foi em operação de casa em crise. Três ferramentas: atendimento, comercial, operação interna | Ato 3 detalhado, ficha 2.5 criada |
+| R1.4 | "Programador" confirmado. Escreve código quase todo dia | Ficha 2.5 fixou a regra de tempo verbal |
+| R1.5 | Vendas online entre 3 e 6 anos, em paralelo | Ficha 2.5. Público usa "anos", nunca número inventado |
+| R1.6 | Bio curta cabe nos 150 caracteres (138 com quebras) | Mantida sem alteração |
+| R1.7 | Palestra de graça até a quinta. Da sexta em diante, paga | 5.1 reescrito, contador criado em 10.1 |
+| R1.8 | Cadência de 3 vídeos por semana mantida | 8.2 confirmado, nota de risco e gatilho de contingência em 10.3 |
+| R1.9 | Atraso de 30 dias substituído por teste de descaracterização | Guardrail 9.1 reescrito |
 
-### 12.2 Rodadas previstas
+### 12.2 Ainda aberto desta rodada
+
+- **Nome oficial da empresa.** Liberado para uso público, mas a grafia exata ainda não está no doc. Sem isso, nenhuma peça pode citar.
+- **O que aconteceu depois do sprint.** A história tem começo (crise) e meio (22 dias), não tem fim. Sem o depois, ela não vira palestra.
+- **Número exato de anos de venda online**, e se ele ainda vende alguma coisa hoje.
+- **Existe algum resultado do sprint** que possa ser dito sem ferir o guardrail 9.2.
+
+### 12.3 Rodadas previstas
 
 2. Posicionamento e tese (seções 1 e 6).
 3. Público e oferta (seções 3, 4 e 5).
 4. Voz, pilares e formatos (seções 7 e 8).
 5. Operação, guardrails e métricas (seções 9, 10 e 11).
 
-### 12.3 Histórico de decisões
+### 12.4 Histórico de decisões
 
 | Data | Item | Decisão |
 |---|---|---|
-| 11/09/2026 | Migração | v1.0 migrado para `.context/sobre-anderson/AGENTS.md` sem alteração de conteúdo, com camada de instrução para IA e fila de refino |
+| 11/09/2026 | Migração | v1.0 migrado para `.context/sobre-anderson/AGENTS.md` com camada de instrução para IA e fila de refino |
+| 11/09/2026 | Rodada 1 | Nove decisões aplicadas, ver 12.1. Documento passa a v1.2 |
 
 ---
 
-*Documento vivo. Atualizar a cada decisão de posicionamento, no mesmo espírito append-only. Toda mudança de `[I]` ou `[V]` para `[C]` exige confirmação do Anderson.*
+*Documento vivo. Atualizar a cada decisão de posicionamento, no mesmo espírito append-only. Toda mudança de `[I]` para `[C]` exige confirmação do Anderson.*
